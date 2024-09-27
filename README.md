@@ -13,3 +13,6 @@
 #### 4. ¿Qué es una herramienta ofimatica?
 ##### -Una herramienta ofimatica como el mismo nombre lo dice, és una herramienta que sirve de ayuda en aplicaciones ofimáticas.
 
+##### 5. Herramientas de Google:
+![Tabla de Herramientas de Google](https://github.com/AlejandroSanchezSMX2/Evaluacion-Inicial/blob/main/Captura%20de%20pantalla%202024-09-27%20152115.png)
+
