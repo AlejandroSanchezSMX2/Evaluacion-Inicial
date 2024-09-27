@@ -30,3 +30,6 @@
 </html>
 ```
 
+#### 7. ¿Qué es CSS?
+##### -CSS no se lo que es pero creo que es un tipo de lenguaje de programación o algo parecido.
+
