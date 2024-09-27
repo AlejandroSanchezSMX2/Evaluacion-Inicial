@@ -34,4 +34,5 @@
 ##### -CSS no se lo que es pero creo que es un tipo de lenguaje de programación o algo parecido.
 
 #### 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![Flujo de trabajo](https://github.com/AlejandroSanchezSMX2/Evaluacion-Inicial/blob/main/Captura%20de%20pantalla%202024-09-27%20155034.png "Flujo de trabajo")
 
