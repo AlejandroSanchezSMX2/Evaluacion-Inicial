@@ -5,4 +5,11 @@
 
 
 #### 2. ¿Qué es un sitio web?
-##### -Un sitio web es parecido a una página web.
+##### -Un sitio web es parecido a una página web pero es un sitio web.
+
+#### 3. ¿Qué es una aplicación web?
+##### -Una aplicación web es un recurso que podemos descargar desde nuestro ordenador y sirve para hacer muchas cosas dentro de ella.
+
+#### 4. ¿Qué es una herramienta ofimatica?
+##### -Una herramienta ofimatica como el mismo nombre lo dice, és una herramienta que sirve de ayuda en aplicaciones ofimáticas.
+
